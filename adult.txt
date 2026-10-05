@@ -1,0 +1,4 @@
+! Adult sites
+||pornhub.*
+||xvideos.*
+||pinayflix.*
