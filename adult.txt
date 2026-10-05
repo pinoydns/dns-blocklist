@@ -1,4 +1,9 @@
-! Adult sites
+! Adult content blocklist
 ||pornhub.*
 ||xvideos.*
 ||pinayflix.*
+
+
+||xhamster.*
+||redtube.*
+||youporn.*
