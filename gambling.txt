@@ -1,0 +1,3 @@
+||bingoplus.*
+||arenaplus.*
+||slotplus.*
