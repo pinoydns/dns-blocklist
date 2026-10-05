@@ -137,39 +137,32 @@ Online Poker Games R-Live R-Live www.rlivegame.net
 Electronic Casino Games
 Electronic Bingo Games HANN ONLINE HANN www.hannonline.ph www.hannliveonline.com
 Sports Betting
-buenas.cc
-buenas.life
-buenas.pro
-buenas.asia
-buenas.plus
-buenas.vip
-Electronic Casino Games Buenas Buenas www.buenas.ph buenas.site
-*Numeric Games buenas.bet
-buenas.live
-buenas.win
-buenasgames.ph
-buenasfun.ph
-buenasplay.ph
-Electronic Casino Games
-Electronic Bingo Games
-Specialty Games IGO IGO www.igo.ph www.igoegaming.ph igo.ph
-Online Poker Games
-Sports Betting
-Sports Betting
-Electronic Casino Games
-*Specialty Games SportsPlus SP www.sportsplus.ph sportsplus.com.ph
-Electronic Bingo Games sportsplus.ph
-Online Poker Games
-24 HHR PHILIPPINES, INC. (HPI)
-INFINITECH DIGITAL GAMING
-CORPORATION (IDGC)
-26
-25
-IGO DIGITAL HIGH
-TECHNOLOGY INC. (IGO)
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.* 
+||buenas.* 
+||buenas.* 
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+||buenas.*
+
+www.igo.ph www.igoegaming.ph igo.ph
 
 
-InstaPlay inplay.instaplay.com.ph
+ www.sportsplus.ph sportsplus.com.ph
+ sportsplus.ph
+
+
+
+ inplay.instaplay.com.ph
 Electronic Casino Games PowerPlay inplay.powerplay.ph
 Numeric Games Inplay InPlay 1Play www.inplay.ph Inplay.1play.ph
 88Play inplay.88play.ph
