@@ -6,5 +6,4 @@
 ||wowgaming.*
 ||casinoplus.*
 ||digiplus.*
-
-
+||stake.*
